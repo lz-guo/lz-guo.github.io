@@ -1,0 +1,23 @@
+
+
+* {
+    margin:0;
+    padding: 0;
+}
+
+h1{
+    margin: 0, auto;
+    text-align: center;
+}
+
+#scoreLabel {
+    margin: 0, auto;
+    text-align: center;
+}
+
+
+canvas {
+    background-color:darkslategrey;
+    display: block;
+    margin: 0 auto;
+}
